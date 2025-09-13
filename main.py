@@ -4,3 +4,4 @@ a = 'a'
 b = 'b'
 c = 'c'
 print(123)
+print(a + b)

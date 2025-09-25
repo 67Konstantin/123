@@ -9,4 +9,4 @@ print("ебать")
 
 print("Ещё один пример git revert")
 
-print("Хуй")
+print("123")
